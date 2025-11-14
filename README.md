@@ -2,17 +2,27 @@
 A simple Python program to add tasks, view them, mark them as completed, and delete them. Easy to use and perfect for beginners learning Python.
 
 ⭐ Features
+
 Add new tasks
+
 View all tasks
+
 Mark tasks as completed
+
 Delete tasks
+
 Simple and clean menu
+
 Easy to modify and extend
 
 ▶️ How to Run
+
 Download or clone the repository
+
 Open the project folder
+
 Run the program:
+
 python todo.py
 
 📌 Sample Output
